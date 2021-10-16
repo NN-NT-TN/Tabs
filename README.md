@@ -1,2 +1,2 @@
 # Tabs
-Basic Tabs Project
+Basic Tabs Project for reference usage
